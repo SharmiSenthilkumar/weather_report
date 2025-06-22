@@ -26,3 +26,7 @@ In conclusion, this project demonstrates a practical implementation of API integ
 
 
 ****OUTPUT****
+
+![Image](https://github.com/user-attachments/assets/72eb8608-2ae9-4b2e-88b0-23b5f0114dbe)
+
+NO MORE WORRIES I GOT MY OUTPUT...
